@@ -1,4 +1,4 @@
-sistemaCinema
+Sistema para controle de Cinema
 =============
 
-Desenvolvimento de um software para controle de sessões
+Desenvolvimento de um software para controle de cinema.
